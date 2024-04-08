@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px; /* Ajusta el valor según sea necesario */
+    margin-left: 50px;
+    margin-right: 50px;
+
+  }
+  
+  
+  .menu {
+    width: 200px; /* Ancho del menú */
+  }
+  
+  .content {
+    flex: 1; /* El contenido ocupará el espacio restante */
+  }
+  
+
+  
